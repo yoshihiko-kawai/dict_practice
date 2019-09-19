@@ -6,15 +6,12 @@ def main():
     }
 
     # Grapeを出力するコードを描く
-
     print(fruits_dict["ブドウ"])
 
     # Orangeを出力するコードを描く
-
     print(fruits_dict["みかん"])
 
     # Appleを出力するコードを描く
-
     print(fruits_dict["リンゴ"])
 
 
